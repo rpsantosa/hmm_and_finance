@@ -1,4 +1,4 @@
-# Import the necessary packages and set 
+## Import the necessary packages and set 
 # random seed for replication consistency
 install.packages('depmixS4')
 install.packages('quantmod')
